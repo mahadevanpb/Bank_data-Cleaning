@@ -44,3 +44,5 @@ They have supplied you with a csv file called `"bank_marketing.csv"`, which you 
 | `client_id` | `integer` | Client ID | N/A |
 | `cons_price_idx` | `float` | Consumer price index (monthly indicator) | N/A |
 | `euribor_three_months` | `float` | Euro Interbank Offered Rate (euribor) three-month rate (daily indicator) | N/A |
+
+### Source: www.datacamp.com
